@@ -1,0 +1,8 @@
+{
+  "disciplinas": [
+    { "id": 1, "descricao": "Razer Headset", "preco": 300 },
+    { "id": 2, "descricao": "Teclado Mecânico", "preco": 400 },
+    { "id": 3, "descricao": "Mouse Redragon", "preco": 200 },
+    { "id": 4, "descricao": "PC Gamer ITX", "preco": 7000 }
+  ]
+}
